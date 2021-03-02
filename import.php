@@ -25,8 +25,7 @@ if(isset($_POST['submit'])){
 
         $stmt->execute();
     }
-    //  header('Location:index.php?status=success');
-
+    
 }
 ?>
 <!doctype html>
